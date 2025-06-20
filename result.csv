@@ -1,0 +1,6 @@
+browser_id,browser_name,developer,release_date,latest_version,engine
+GC,Google Chrome,Google LCC,2008,137.0.7151.69,Blink
+F,Mozilla Firefox,Mozilla Foundation,2002,139.0.4,Gecko
+IE/ME,Internet Explorer/Edge,Microsoft,1995,11.0.110/134.0.3124.93,Trident/Chromium
+O,Opera,Opera Software,1995,119.0.5497.88,Blink
+S,Safari,Apple,2003,18.4,WebKit
